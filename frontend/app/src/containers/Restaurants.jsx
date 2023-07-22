@@ -31,7 +31,7 @@ const HeaderWrapper = styled.div`
 
 const MainLogoImage = styled.img`
   height: 90px;
-`
+`;
 
 const MainCoverImageWrapper = styled.div`
   text-align: center;
@@ -44,7 +44,7 @@ const MainCover = styled.img`
 const RestaurantsContentsList = styled.div`
   display: flex;
   justify-content: space-around;
-  margin-bottom: 150px;
+  margin-bottom: 150px;git 
 `;
 
 const RestaurantsContentWrapper = styled.div`
