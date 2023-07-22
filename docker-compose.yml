@@ -24,7 +24,7 @@ services:
   front:
     build: ./frontend/
     volumes:
-      - ./frontend/app:/front
+      - ./frontend/app/auth-test:/front/auth-test
     ports:
       - 3000:3000
     tty: true

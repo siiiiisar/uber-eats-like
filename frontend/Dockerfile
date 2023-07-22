@@ -1,5 +1,5 @@
 FROM node:lts-slim
 
-WORKDIR /front
+WORKDIR /front/auth-test
 
 ENV CI=true
